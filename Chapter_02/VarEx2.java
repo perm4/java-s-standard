@@ -4,8 +4,6 @@
  * Author : 이진규
  * Email  : jklee050@gmail.com
  */
-package Chapter_02;
-
 class VarEx2 {
   public static void main(String[] args) {
     int x = 10;

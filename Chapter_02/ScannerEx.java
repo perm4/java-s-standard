@@ -4,8 +4,6 @@
  * Author : 이진규
  * Email  : jklee050@gmail.com
  */
-package Chapter_02;
-
 import java.util.Scanner;
 
 class ScannerEx {
