@@ -1,3 +1,4 @@
+package Chapter_02;
 /*
  * Date   : 2022. 08. 22.
  * Source : VarEx2.java

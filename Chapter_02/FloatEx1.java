@@ -4,6 +4,7 @@
  * Author : 이진규
  * Email  : jklee050@gmail.com
  */
+package Chapter_02;
 class FloatEx1 {
   public static void main(String[] args) {
     float f = 9.12345678901234567890f;

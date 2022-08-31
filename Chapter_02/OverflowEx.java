@@ -4,6 +4,7 @@
  * Author : 이진규
  * Email  : jklee050@gmail.com
  */
+package Chapter_02;
 class OverflowEx {
   public static void main(String[] args) {
     short sMin = -32768;

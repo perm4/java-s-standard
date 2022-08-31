@@ -4,6 +4,7 @@
  * Author : 이진규
  * Email  : jklee050@gmail.com
  */
+package Chapter_02;
 class CastingEx1 {
   public static void main(String[] args) {
     double d = 85.4;

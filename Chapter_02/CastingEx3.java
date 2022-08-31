@@ -4,6 +4,7 @@
  * Author : 이진규
  * Email  : jklee050@gmail.com
  */
+package Chapter_02;
 class CastingEx3 {
   public static void main(String[] args) {
     float f = 9.1234567f;

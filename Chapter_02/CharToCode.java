@@ -4,6 +4,7 @@
  * Author : 이진규
  * Email  : jklee050@gmail.com
  */
+package Chapter_02;
 class CharToCode {
   public static void main(String[] args) {
     char ch = 'A'; // char ch = 65;

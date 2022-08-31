@@ -4,6 +4,7 @@
  * Author : 이진규
  * Email  : jklee050@gmail.com
  */
+package Chapter_02;
 class SpecialCharEx {
   public static void main(String[] args) {
     System.out.println('\''); // '''처럼 할 수 없다.

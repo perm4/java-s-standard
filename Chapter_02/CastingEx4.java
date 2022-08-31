@@ -4,6 +4,7 @@
  * Author : 이진규
  * Email  : jklee050@gmail.com
  */
+package Chapter_02;
 class CastingEx4 {
   public static void main(String[] args) {
     int i = 91234567; // 8자리의 10진수

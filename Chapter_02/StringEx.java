@@ -4,6 +4,7 @@
  * Author : 이진규
  * Email  : jklee050@gmail.com
  */
+package Chapter_02;
 class StringEx {
   public static void main(String[] args) {
     String name = "Ja" + "va";
